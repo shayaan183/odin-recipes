@@ -1,0 +1,29 @@
+body {
+    font-family: "Roboto", Arial, sans-serif;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+img {
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+div {
+    width: 700px;
+    padding: 10px;
+    margin: auto;
+    margin-bottom: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: left;
+}
+
+.links {
+    list-style: none;
+    padding: 0;
+}
+
+.items {
+    padding: 10px;
+}
