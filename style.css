@@ -1,27 +1,86 @@
+* {
+    box-sizing: border-box;
+    /* margin: 0;
+    padding: 0; */
+}
+
+/* Main body */
+
 body {
     font-family: "Roboto", Arial, sans-serif;
     text-align: center;
-    box-sizing: border-box;
+    background-color: antiquewhite;
 }
+
+/* Images */
 
 img {
     border-radius: 10px;
     margin-bottom: 10px;
+    width: 100%;
+    max-width: 600px;
+    margin: 16px;
 }
 
+/* Headings */
+
+h1 {
+    margin: 16px;
+}
+
+h2 {
+    margin: 10px;
+    text-align: center;
+}
+
+p, ul, ol {
+    padding: 10px;
+    margin: 16px;
+}
+
+/* Buttons and Links */
+
+a {
+    text-decoration: none;
+}
+
+button {
+    display: block;
+    background-color: #fdf7f2;
+    width: 300px;
+    padding: 10px;
+    font-size: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    cursor: pointer;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.home {
+    width: 200px;
+}
+
+button:hover {
+    background-color: #d3d3d3;
+}
+
+/* Recipies */
+
 div {
+    background-color: #fdf7f2;
     width: 700px;
     padding: 10px;
     margin: auto;
     margin-bottom: 10px;
-    border: 2px solid black;
+    border: 1px solid black;
     border-radius: 10px;
     text-align: left;
 }
 
-.links {
-    list-style: none;
-    padding: 0;
+.description {
+    text-align: center;
 }
 
 .items {
