@@ -53,7 +53,7 @@ button {
     width: 300px;
     padding: 10px;
     font-size: 16px;
-    margin: 10px auto 10px auto;
+    margin: 0 auto 16px;
     cursor: pointer;
     border: 1px solid black;
     border-radius: 5px;
