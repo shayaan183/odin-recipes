@@ -21,6 +21,13 @@ img {
     max-width: 600px;
 }
 
+.caption {
+    font-size: 0.8em;
+    color: gray;
+    margin: 0;
+    margin-bottom: 16px;
+}
+
 /* Headings */
 
 h1 {
