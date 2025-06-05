@@ -24,3 +24,7 @@ A simple HTML and CSS website to display different recipes, showing what ingredi
 
 - Recipe from: [allrecipes](https://www.allrecipes.com/recipe/17981/one-bowl-chocolate-cake-iii/)
 - Image from: [Unsplash (Pushpek Dsilva)](https://unsplash.com/photos/chocolate-cake-on-white-ceramic-plate-2UeBOL7UD34)
+
+## Contact
+
+Created by [Shayaan Musthafa](https://github.com/shayaan183).
