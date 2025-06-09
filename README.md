@@ -2,7 +2,15 @@
 
 ## About
 
-A simple HTML and CSS website to display different recipes, showing what ingredients it needs and the instructions to make it.
+A simple HTML and CSS website project built as part of [The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes)'s Foundations curriculum.
+
+It display different recipes, showing what ingredients it needs and the instructions to make it.
+
+## Technologies Used
+
+- HTML5  
+- CSS3  
+- Google Fonts (Roboto)
 
 ## Credits
 
