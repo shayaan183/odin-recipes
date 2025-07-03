@@ -35,7 +35,7 @@ It display different recipes, showing what ingredients it needs and the instruct
 
 **Favicon**
 
-- Camp Cooking Pot icon by [Delapouite](https://game-icons.net/1x1/delapouite/camp-cooking-pot.html), from [Game-icons.net](https://game-icons.net/), licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+- Camp Cooking Pot icon by [Delapouite](https://game-icons.net/1x1/delapouite/camp-cooking-pot.html), from [Game-icons.net](https://game-icons.net/), licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 
 ## Contact
 
