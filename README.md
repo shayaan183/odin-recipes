@@ -33,6 +33,10 @@ It display different recipes, showing what ingredients it needs and the instruct
 - Recipe from: [allrecipes](https://www.allrecipes.com/recipe/17981/one-bowl-chocolate-cake-iii/)
 - Image from: [Unsplash (Pushpek Dsilva)](https://unsplash.com/photos/chocolate-cake-on-white-ceramic-plate-2UeBOL7UD34)
 
+**Favicon**
+
+- Camp Cooking Pot icon by [Delapouite](https://game-icons.net/1x1/delapouite/camp-cooking-pot.html), from [Game-icons.net](https://game-icons.net/), licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+
 ## Contact
 
 Created by [Shayaan Musthafa](https://github.com/shayaan183).
