@@ -6,6 +6,10 @@ A simple HTML and CSS website project built as part of [The Odin Project](https:
 
 It display different recipes, showing what ingredients it needs and the instructions to make it.
 
+## Preview
+
+![Homepage Screenshot](images/homepage-screenshot.png)
+
 ## Technologies Used
 
 - HTML5  
@@ -16,7 +20,7 @@ It display different recipes, showing what ingredients it needs and the instruct
 
 **Home Page GIF:**
 
-- GIF from the film <em>Your Name</em> (2016), directed by Makoto Shinkai. © CoMix Wave Films.
+- GIF from the film <em>Your Name</em> (2016), directed by Makoto Shinkai. © CoMix Wave Films
 
 **Chicken Stir Fry:**
 
@@ -35,7 +39,7 @@ It display different recipes, showing what ingredients it needs and the instruct
 
 **Favicon**
 
-- Camp Cooking Pot icon by [Delapouite](https://game-icons.net/1x1/delapouite/camp-cooking-pot.html), from [Game-icons.net](https://game-icons.net/), licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- Chef Toque icon by [Delapouite](https://game-icons.net/1x1/delapouite/chef-toque.html), from [Game-icons.net](https://game-icons.net/), licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 
 ## Contact
 
